@@ -1,0 +1,47 @@
+body{
+  background: url("https://i.pinimg.com/474x/c6/78/b7/c678b7987e9b814d50dfbd87a84cf2ba--internship-stand-up.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.words {
+  max-width: 500px;
+  margin: 50px auto;
+  background: white;
+  border-radius: 30px;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  padding: 1rem 2rem 1rem 5rem;
+  background-color: white;
+  background-size: 100% 3rem;
+  position: relative;
+  line-height: 3rem;
+}
+#ccc{
+  padding-top: 10px;
+  padding-left: 189px;
+  color: white;
+  font-size: 34px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+
+
+.btn-btn-light{
+
+}
+#ppp
+{
+  font-size: 30px;
+  padding-left: 200px;
+  font-family: 'PT Serif', serif;
+  color: white;
+}
+.footer{
+  font-size: 30px;
+  color: white;
+  font-family: 'Dancing Script', cursive
+}
+.fa fa-copyright{
+  color: white;
+}
